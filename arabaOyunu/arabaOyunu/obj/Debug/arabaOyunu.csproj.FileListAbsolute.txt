@@ -1,0 +1,10 @@
+C:\Users\Ahmet demir\source\repos\arabaOyunu\arabaOyunu\bin\Debug\arabaOyunu.exe.config
+C:\Users\Ahmet demir\source\repos\arabaOyunu\arabaOyunu\bin\Debug\arabaOyunu.exe
+C:\Users\Ahmet demir\source\repos\arabaOyunu\arabaOyunu\bin\Debug\arabaOyunu.pdb
+C:\Users\Ahmet demir\source\repos\arabaOyunu\arabaOyunu\obj\Debug\arabaOyunu.csprojAssemblyReference.cache
+C:\Users\Ahmet demir\source\repos\arabaOyunu\arabaOyunu\obj\Debug\arabaOyunu.Form1.resources
+C:\Users\Ahmet demir\source\repos\arabaOyunu\arabaOyunu\obj\Debug\arabaOyunu.Properties.Resources.resources
+C:\Users\Ahmet demir\source\repos\arabaOyunu\arabaOyunu\obj\Debug\arabaOyunu.csproj.GenerateResource.cache
+C:\Users\Ahmet demir\source\repos\arabaOyunu\arabaOyunu\obj\Debug\arabaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet demir\source\repos\arabaOyunu\arabaOyunu\obj\Debug\arabaOyunu.exe
+C:\Users\Ahmet demir\source\repos\arabaOyunu\arabaOyunu\obj\Debug\arabaOyunu.pdb
